@@ -7,6 +7,4 @@ $-> cd DigitalClock-Using-Python
 $ DigitalClock-Using-Python -> python main.py
 ```
 # Output
-![](clock.png)
-
-you can change the colour, window size,font etc
+<img width="460" height="300" src="clock.png">
